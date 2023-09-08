@@ -1,6 +1,5 @@
 # Hi!
-
-I’m currently a student studying computer science.
+I'm a software developer in Michigan.
 
 Here on GitHub, most recently I've been working on a C++ project to restore functionality to an old educational robotics USB device on modern versions of Windows. You can find out more about that [here](https://github.com/hangrydave/InfraredBrickTower).
 
