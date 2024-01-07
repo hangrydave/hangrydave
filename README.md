@@ -6,6 +6,6 @@ Here on GitHub, most recently I've been working on a C++ project to restore func
 Here are some fun statistics about my profile:
 
 <a href="https://github.com/hangrydave">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangrydave&theme=tokyonight&layout=donut" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hangrydave&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangrydave&theme=tokyonight&layout=compact" />
 </a>
